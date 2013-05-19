@@ -1,0 +1,121 @@
+html, body{
+	margin-left: 10px;
+	font-size: 12px;
+	font-family: Arial, Helvetica, Verdana, Sans-Serif;
+	color:#800080;
+	text-align: left;
+	vertical-align:middle;
+	background-image: url(background.png);
+	}
+	
+html, body, #page-container { height: 99%; }
+/*body > #page-container { height: 600px; min-height: 100%; }*/
+
+ 	
+a:link {color:#440e7a}		/*unvisited link*/        
+a:visited {color:#004080}  /*visited link*/
+a:hover {color:#4c4c4c} /*mouse over link*/
+a:active {color:#ffffff}	/*selected link*/
+
+
+
+ #main-nav{
+	border:2px dashed;
+	border-radius:15px;
+	border-color:#004080;
+	align:center;
+	vertile-align: middle;
+	height: 25px;
+	width: 1200px;
+	background-color:#ffffff; 
+	padding: 10px;
+	text-align: center;
+	font-family: copperplate gothic light;
+	font-size: 16px;
+	}
+	
+	#header{
+	height: 75px;	
+	background: url(RF-logo.png) no-repeat;
+	
+	
+	}
+ 
+ page-container{
+	background-image: url(background.png);
+	width: auto;
+	text-align: left;	
+	
+	}
+ 
+#pagewidth{ }
+ 
+#leftcol{
+ width:25%; 
+ float:left; 
+ position:relative; 
+ /*background-color:#B6C9FF; */
+ }
+ 
+ #rightcol{
+ width:25%; 
+ float:left; 
+ position:relative; 
+ /*background-color:#B6C9FF; */
+ }
+ 
+
+ 
+ h1 {
+   margin: 0;
+   padding: 0;
+   margin-top: 10px;
+   padding-right: 31px;
+   color: #004080;
+   text-align: left;
+	}
+ 
+ #footer{
+	clear: both;
+	 position: relative;
+	height: 66px;
+	z-index: 10;
+	 margin-top: -3em;
+	border-top: 1px solid #000000;
+	padding: 13px 20px 13px 20px;
+	font-size: 10px;
+	font-family: arial, helvetica, verdana, sans-serif;
+	line-height: 13px;
+	
+	}
+	
+#content { padding-bottom: 3em; }
+
+
+#footer a {
+    color: #c9c9c9;
+    text-decoration: none;
+}
+
+#footer a:hover {
+   color: #b3b3b3;
+}
+
+
+.clearfix:after {
+ content: "."; 
+ display: block; 
+height: 0; 
+ clear: both; 
+ visibility: hidden;
+ }
+ 
+.clearfix{display: inline-block;}
+
+/* Hides from IE-mac \*/
+* html .clearfix{height: 1%;}
+.clearfix{display: block;}
+/* End hide from IE-mac */  
+
+
+ 

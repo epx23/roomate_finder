@@ -1,0 +1,10 @@
+ebourdreau;123;Eric;Bourdreau;ebourdreau@dyn.com;Engineering;true;true;false;true;21;6;4;6;3;8
+chaskell;123;Craig;Haskell;chaskell@snhu.edu;Mathematics;true;false;false;true;20;2;1;7;1;9
+jschena;abc;Jamie;Schena;jschena@keane.edu;Quality Assurance;false;false;true;false;21;1;10;1;4;5
+acorey;abc;Andrew;Corey;acorey@nowhere.com;Computer Science;true;true;false;true;21;7;6;8;2.5;2
+batman;xyz;Bat;Man;batman@thebatcave.com;Marketing;true;false;false;false;25;10;10;10;0.5;3
+jgreen;xyz;John;Green;jgreen@dyn.com;Computer Science;true;true;false;true;20;5;8;3;4;6
+bcasey;123;Becca;Casey;bcasey@java.com;Mathematics;true;true;false;true;19;9;7;8;3;7
+awiggins;123;Andrew;Wiggins;awiggins@theend.org;Marketing;false;true;false;true;21;6;8;1;6;8
+keverdeen;abv;Katniss;Everdeen;keverdeen@hungry.com;Quality Assurance;true;false;false;true;22;10;10;10;1;6
+cnorris;abc;Chuck;Norris;cnorris@dyn.com;Engineering;false;false;false;true;60;10;1;10;0;1
